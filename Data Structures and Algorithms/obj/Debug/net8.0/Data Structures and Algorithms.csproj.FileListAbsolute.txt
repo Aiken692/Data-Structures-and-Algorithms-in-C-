@@ -1,0 +1,14 @@
+D:\Data Structures and Algorithms in Depth using C#\Data Structures and Algorithms\Data Structures and Algorithms\bin\Debug\net8.0\Data Structures and Algorithms.exe
+D:\Data Structures and Algorithms in Depth using C#\Data Structures and Algorithms\Data Structures and Algorithms\bin\Debug\net8.0\Data Structures and Algorithms.deps.json
+D:\Data Structures and Algorithms in Depth using C#\Data Structures and Algorithms\Data Structures and Algorithms\bin\Debug\net8.0\Data Structures and Algorithms.runtimeconfig.json
+D:\Data Structures and Algorithms in Depth using C#\Data Structures and Algorithms\Data Structures and Algorithms\bin\Debug\net8.0\Data Structures and Algorithms.dll
+D:\Data Structures and Algorithms in Depth using C#\Data Structures and Algorithms\Data Structures and Algorithms\bin\Debug\net8.0\Data Structures and Algorithms.pdb
+D:\Data Structures and Algorithms in Depth using C#\Data Structures and Algorithms\Data Structures and Algorithms\obj\Debug\net8.0\Data Structures and Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data Structures and Algorithms in Depth using C#\Data Structures and Algorithms\Data Structures and Algorithms\obj\Debug\net8.0\Data Structures and Algorithms.AssemblyInfoInputs.cache
+D:\Data Structures and Algorithms in Depth using C#\Data Structures and Algorithms\Data Structures and Algorithms\obj\Debug\net8.0\Data Structures and Algorithms.AssemblyInfo.cs
+D:\Data Structures and Algorithms in Depth using C#\Data Structures and Algorithms\Data Structures and Algorithms\obj\Debug\net8.0\Data Structures and Algorithms.csproj.CoreCompileInputs.cache
+D:\Data Structures and Algorithms in Depth using C#\Data Structures and Algorithms\Data Structures and Algorithms\obj\Debug\net8.0\Data Structures and Algorithms.dll
+D:\Data Structures and Algorithms in Depth using C#\Data Structures and Algorithms\Data Structures and Algorithms\obj\Debug\net8.0\refint\Data Structures and Algorithms.dll
+D:\Data Structures and Algorithms in Depth using C#\Data Structures and Algorithms\Data Structures and Algorithms\obj\Debug\net8.0\Data Structures and Algorithms.pdb
+D:\Data Structures and Algorithms in Depth using C#\Data Structures and Algorithms\Data Structures and Algorithms\obj\Debug\net8.0\Data Structures and Algorithms.genruntimeconfig.cache
+D:\Data Structures and Algorithms in Depth using C#\Data Structures and Algorithms\Data Structures and Algorithms\obj\Debug\net8.0\ref\Data Structures and Algorithms.dll
