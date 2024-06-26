@@ -2,7 +2,12 @@
 
 
 using Data_Structures_and_Algorithms.LearnDSAlgorithms.ADT;
+using Data_Structures_and_Algorithms.LearnDSAlgorithms.BinarySearch;
+using Data_Structures_and_Algorithms.LearnDSAlgorithms.BinarySearchTree;
+using Data_Structures_and_Algorithms.LearnDSAlgorithms.BubbleSort;
 using Data_Structures_and_Algorithms.LearnDSAlgorithms.LinkedLists;
+using Data_Structures_and_Algorithms.LearnDSAlgorithms.Queues;
+using Data_Structures_and_Algorithms.LearnDSAlgorithms.Stacks;
 
 Console.WriteLine("Hello, World!");
 
@@ -14,6 +19,7 @@ Console.WriteLine("Hello, World!");
 
 Console.WriteLine("Inserting at the End of an Array");
 Insertion insertion = new Insertion();
+
 insertion.InsertToEnd();
 
 Console.WriteLine("Inserting at the start of an Array");
@@ -87,6 +93,72 @@ linkedList.InsertLast(546);
 linkedList.InsertLast(3434);
 
 linkedList.DisplayList();
+
+//Stacking
+//Intro to stacks in c#
+//Imagine a pile of bills on your desk 
+Stack stack = new Stack(10);
+
+for (int i = 0; i < 3; i++)
+{
+    stack.Push("Squirtle");
+    stack.Push("Pickachu");
+    stack.Push("Togo");
+}
+
+stack.Pop();
+stack.Peek();
+
+while (!stack.IsEmpty())
+{
+    var var = stack.Pop();
+}
+
+//Queues in DSA
+Queue queue = new Queue(10);
+
+queue.Enqueue(1);
+queue.Enqueue(2);
+queue.Enqueue(3);
+queue.Enqueue(4);
+queue.Enqueue(5);
+
+queue.Dequeue();
+queue.Dequeue();
+
+queue.Peek();
+
+Console.Clear();
+Console.WriteLine("Binary Search operation Initializing......");
+//Binary Search
+BinarySearch binarySearch = new();
+binarySearch.BinarySearchOperation(binarySearch.BinaryArray, 2);
+
+
+//Binary Search Tree
+Console.Clear();
+Console.WriteLine("Binary Search Tree operation Initializing......");
+
+BinarySearchTree bst = new();
+bst.Insert(7, "RangeRover");
+bst.Insert(23, "LandRover");
+bst.Insert(151, "Lexus");
+bst.Insert(4, "Toyota");
+bst.Insert(1, "Subaru");
+
+Console.WriteLine(bst.Find((151)));
+
+//Bubble Sort
+Console.Clear();
+Console.WriteLine("Bubble Sort Operation Initializing......");
+
+BubbleSort bubbleSort = new();
+var IntArray = new[] { 6, 5, 1, 7, 2, 4 };
+
+bubbleSort.BubbleSortOperation(IntArray);
+
+Console.WriteLine("Bubble Sort Operation done......");
+
 
 //Recursion r = new Recursion();
 //r.calculate(3);

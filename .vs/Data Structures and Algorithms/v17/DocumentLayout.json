@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Data Structures and Algorithms in Depth using C#\\Data Structures and Algorithms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40428E7E-16F9-46B5-BF59-0903DC22553B}|Data Structures and Algorithms\\Data Structures and Algorithms.csproj|d:\\data structures and algorithms in depth using c#\\data structures and algorithms\\data structures and algorithms\\learndsalgorithms\\binarysearch\\binarysearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40428E7E-16F9-46B5-BF59-0903DC22553B}|Data Structures and Algorithms\\Data Structures and Algorithms.csproj|solutionrelative:data structures and algorithms\\learndsalgorithms\\binarysearch\\binarysearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40428E7E-16F9-46B5-BF59-0903DC22553B}|Data Structures and Algorithms\\Data Structures and Algorithms.csproj|d:\\data structures and algorithms in depth using c#\\data structures and algorithms\\data structures and algorithms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40428E7E-16F9-46B5-BF59-0903DC22553B}|Data Structures and Algorithms\\Data Structures and Algorithms.csproj|solutionrelative:data structures and algorithms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40428E7E-16F9-46B5-BF59-0903DC22553B}|Data Structures and Algorithms\\Data Structures and Algorithms.csproj|d:\\data structures and algorithms in depth using c#\\data structures and algorithms\\data structures and algorithms\\learndsalgorithms\\adt\\linearsearcharray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40428E7E-16F9-46B5-BF59-0903DC22553B}|Data Structures and Algorithms\\Data Structures and Algorithms.csproj|solutionrelative:data structures and algorithms\\learndsalgorithms\\adt\\linearsearcharray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Data Structures and Algorithms in Depth using C#\\Data Structures and Algorithms\\Data Structures and Algorithms\\Program.cs",
+              "RelativeDocumentMoniker": "Data Structures and Algorithms\\Program.cs",
+              "ToolTip": "D:\\Data Structures and Algorithms in Depth using C#\\Data Structures and Algorithms\\Data Structures and Algorithms\\Program.cs",
+              "RelativeToolTip": "Data Structures and Algorithms\\Program.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAApwIYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T08:27:36.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LinearSearchArray.cs",
+              "DocumentMoniker": "D:\\Data Structures and Algorithms in Depth using C#\\Data Structures and Algorithms\\Data Structures and Algorithms\\LearnDSAlgorithms\\ADT\\LinearSearchArray.cs",
+              "RelativeDocumentMoniker": "Data Structures and Algorithms\\LearnDSAlgorithms\\ADT\\LinearSearchArray.cs",
+              "ToolTip": "D:\\Data Structures and Algorithms in Depth using C#\\Data Structures and Algorithms\\Data Structures and Algorithms\\LearnDSAlgorithms\\ADT\\LinearSearchArray.cs",
+              "RelativeToolTip": "Data Structures and Algorithms\\LearnDSAlgorithms\\ADT\\LinearSearchArray.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T07:45:23.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BinarySearch.cs",
+              "DocumentMoniker": "D:\\Data Structures and Algorithms in Depth using C#\\Data Structures and Algorithms\\Data Structures and Algorithms\\LearnDSAlgorithms\\BinarySearch\\BinarySearch.cs",
+              "RelativeDocumentMoniker": "Data Structures and Algorithms\\LearnDSAlgorithms\\BinarySearch\\BinarySearch.cs",
+              "ToolTip": "D:\\Data Structures and Algorithms in Depth using C#\\Data Structures and Algorithms\\Data Structures and Algorithms\\LearnDSAlgorithms\\BinarySearch\\BinarySearch.cs",
+              "RelativeToolTip": "Data Structures and Algorithms\\LearnDSAlgorithms\\BinarySearch\\BinarySearch.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T07:32:50.095Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
